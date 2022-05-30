@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Take a Trip</string>
+    <string name="trips">𝓣𝓻𝓲𝓹𝓼</string>
+    <string name="hills">Hills</string>
+    <string name="placeName">Place name</string>
+    <string name="locationName">Gilgit</string>
+    <string name="depLoc">Islamabad</string>
+    <string name="time">08:00 AM</string>
+    <string name="date">May 30, 2022</string>
+    <string name="expectedDur">Expected Duration</string>
+    <string name="hrs">Hours</string>
+    <string name="hours">4</string>
+    <string name="bookSeat">Book seat (Rs. 1500/-)</string>
+    <string name="lahore">Lahore</string>
+</resources>
